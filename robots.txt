@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://theykerno.github.io/sitemap
+Sitemap: https://theykerno.github.io/app/sitemap
+Sitemap: https://theykerno.github.io/assets/sitemap
+Sitemap: https://theykerno.github.io/css/sitemap
+Sitemap: https://theykerno.github.io/includes/sitemap
+Sitemap: https://theykerno.github.io/item/sitemap
+Sitemap: https://theykerno.github.io/src/sitemap
